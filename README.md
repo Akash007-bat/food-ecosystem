@@ -27,4 +27,4 @@ Hard ware components are :
 11. Relay for Solenoid 
 12. Breadboard and Jumper Wires
 
-youtube link: **🎥 Smart Restaurant Robot System** → [Watch demo][https://www.youtube.com/watch?v=O2ZJRL8maRc]
+youtube link: **🎥 Smart Restaurant Robot System** → [Watch demo](https://www.youtube.com/watch?v=O2ZJRL8maRc)
