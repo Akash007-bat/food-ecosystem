@@ -1,3 +1,6 @@
+
+youtube link: **🎥 Smart Restaurant Robot System** → [Watch demo](https://www.youtube.com/watch?v=O2ZJRL8maRc)
+
 Imagine a restaurant where a friendly robot serves you, gliding effortlessly between
 tables, bringing your favorite dishes without wasting your time. That’s the vision
 behind our project — introducing a smart robot waiter that transforms your dining
@@ -13,6 +16,16 @@ every meal, making dining out a delight from start to finish. So, get ready to
 experience dining like never before — with our robot buddy and by application,
 every meal is an adventure!
 
+🔹 Features Highlighted :
+
+✔ AI Genie for food recommendations.
+
+✔ Live chef stream with hygiene transparency.
+
+✔ Smart robot waiter with password-protected delivery.
+
+✔ Bluetooth navigation & obstacle detection.
+
 Hard ware components are :
 1. Arduino UNO Microcontroller
 2. L298N Motor Driver
@@ -26,5 +39,3 @@ Hard ware components are :
 10. Lithium Batteries
 11. Relay for Solenoid 
 12. Breadboard and Jumper Wires
-
-youtube link: **🎥 Smart Restaurant Robot System** → [Watch demo](https://www.youtube.com/watch?v=O2ZJRL8maRc)
