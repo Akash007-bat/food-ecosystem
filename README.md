@@ -6,6 +6,8 @@ tables, bringing your favorite dishes without wasting your time. That’s the vi
 behind our project — introducing a smart robot waiter that transforms your dining
 experience. This robot isn’t just a cool gadget; it’s a game-changer for restaurants
 everywhere.
+
+
 🔹  But here’s the twist: it’s not just the robot. We’ve also created a special app that
 lets you order your meal with ease. No more waiting for a server to take your order;
 simply tap away on your phone, and the robot springs into action, delivering your
